@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kallemni-wela-ensani-talk-to-me-or-forget-me/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Kallemni Wela Ensani – Talk to me or forget me.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
